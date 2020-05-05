@@ -1,2 +1,2 @@
 # Matrix-Multiplication-Threads
-Matrix Multiplication Using Threads - With two random arrays
+Matrix Multiplication Using Threads Java - With two random arrays
